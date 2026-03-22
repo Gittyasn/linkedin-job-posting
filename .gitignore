@@ -1,0 +1,20 @@
+# 🐍 Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# 📊 Data & Model (Files too large for GitHub)
+postings.csv
+postings-checkpoint.csv
+src/model.pkl
+LinkedIn_Project_Premium.zip
+
+# 📓 Jupyter Notebooks
+.ipynb_checkpoints/
+linkedin job posting -checkpoint.ipynb
+
+# 🛠️ Temporary & Misc
+test_load.py
+.DS_Store
+Thumbs.db
