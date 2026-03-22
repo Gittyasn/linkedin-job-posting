@@ -3,7 +3,6 @@
 ## 📝 Project Overview
 This is a **Major Data Science Project** featuring an interactive **Streamlit Web Dashboard**. It analyzes thousands of LinkedIn job postings to provide real-time insights, salary predictions, and skill extraction.
 
-![Streamlit](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)
 
 ## 🌟 Key Features
 ### 1. 📊 Interactive Market Analysis (EDA)
