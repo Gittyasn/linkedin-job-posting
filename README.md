@@ -13,7 +13,7 @@ This is a **Major Data Science Project** featuring an interactive **Streamlit We
 - **Real-Time Prediction**: Input a job title, location, and work type to get an instant salary estimate.
 - **Model**: optimized Random Forest Regressor (R² Score displayed live).
 
-### 3. 🧠 NLP Skill Extraction
+### 3.  NLP Skill Extraction
 - **Word Clouds**: Visualizes the most in-demand skills from job descriptions.
 
 ## 📂 Project Structure
