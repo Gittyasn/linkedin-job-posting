@@ -29,7 +29,7 @@ This is a **Major Data Science Project** featuring an interactive **Streamlit We
     └── nlp_analysis.py   # NLP & WordCloud
 ```
 
-## 🚀 How to Run
+##  How to Run
 1.  **Install Dependencies**:
     ```bash
     pip install -r requirements.txt
