@@ -5,7 +5,7 @@ This is a **Major Data Science Project** featuring an interactive **Streamlit We
 
 
 ## 🌟 Key Features
-### 1. 📊 Interactive Market Analysis (EDA)
+### 1.  Interactive Market Analysis (EDA)
 - **Dynamic Charts**: Filter job titles and locations on the fly.
 - **Visualizations**: Salaries, Work Types, and Top Hiring Companies.
 
