@@ -1,6 +1,6 @@
  LinkedIn Job Market Insights Dashboard
 
-## 📝 Project Overview
+##  Project Overview
 This is a **Major Data Science Project** featuring an interactive **Streamlit Web Dashboard**. It analyzes thousands of LinkedIn job postings to provide real-time insights, salary predictions, and skill extraction.
 
 
