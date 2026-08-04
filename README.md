@@ -9,7 +9,7 @@ This is a **Major Data Science Project** featuring an interactive **Streamlit We
 - **Dynamic Charts**: Filter job titles and locations on the fly.
 - **Visualizations**: Salaries, Work Types, and Top Hiring Companies.
 
-### 2. 🤖 ML Salary Predictor
+### 2.  ML Salary Predictor
 - **Real-Time Prediction**: Input a job title, location, and work type to get an instant salary estimate.
 - **Model**: optimized Random Forest Regressor (R² Score displayed live).
 
