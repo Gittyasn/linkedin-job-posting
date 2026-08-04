@@ -16,7 +16,7 @@ This is a **Major Data Science Project** featuring an interactive **Streamlit We
 ### 3.  NLP Skill Extraction
 - **Word Clouds**: Visualizes the most in-demand skills from job descriptions.
 
-## 📂 Project Structure
+##  Project Structure
 ```
 ├── app.py                 # <--- Main Dashboard App
 ├── run_app.py            # <--- Launcher Script
