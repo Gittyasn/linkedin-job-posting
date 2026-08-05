@@ -39,5 +39,5 @@ This is a **Major Data Science Project** featuring an interactive **Streamlit We
     ```bash
     python run_app.py
     ```
-    *The app will open in your browser automatically.*
+ ### *The app will open in your browser automatically.*
 
