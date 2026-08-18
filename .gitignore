@@ -18,3 +18,5 @@ linkedin job posting -checkpoint.ipynb
 test_load.py
 .DS_Store
 Thumbs.db
+.env
+

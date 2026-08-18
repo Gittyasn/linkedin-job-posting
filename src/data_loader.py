@@ -3,19 +3,19 @@ import os
 
 def load_data(filepath):
     """Loads the dataset from csv."""
-    print(f"\n📥 Loading Data from {filepath}...")
+    print(f"\n[Loader] Loading Data from {filepath}...")
     try:
         df = pd.read_csv(filepath)
-        print("✅ Data Loaded Successfully.")
+        print("[Success] Data Loaded Successfully.")
         print(f"   Shape: {df.shape}")
         return df
     except FileNotFoundError:
-        print(f"❌ Error: File {filepath} not found.")
+        print(f"[Error] File {filepath} not found.")
         return None
 
 def clean_data(df):
     """Enhanced cleaning steps."""
-    print("🧹 Cleaning Data...")
+    print("[Loader] Cleaning Data...")
     
     # 1. Standardize Job Titles
     if 'title' in df.columns:
